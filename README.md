@@ -34,6 +34,7 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 ### Solução: [Código da segunda questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe02/Exe02.java)
 
 Questão 3 de 5
+
 Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
    • O menor valor de faturamento ocorrido em um dia do mês;
    • O maior valor de faturamento ocorrido em um dia do mês;
