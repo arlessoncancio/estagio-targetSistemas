@@ -56,7 +56,7 @@ Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
    Outros – R$19.849,53
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
-### Solução: [Código da quinta questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe05/Exe05.java)
+### Solução: [Código da quarta questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe04/Exe04.java)
 
 Questão 5 de 5
 
@@ -65,4 +65,4 @@ Escreva um programa que inverta os caracteres de um string.
 IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
-### Solução: [String reversa](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/targetSistemas-exercicio05/src/main/java/br/com/exercicios/Main.java)
+### Solução: [Código da quinta questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe05/Exe05.java)
