@@ -46,6 +46,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 ### Solução: [Código da terceira questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe03/Exe03.java)
 
 Questao 4 de 5
+
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
    SP – R$67.836,43
@@ -58,6 +59,7 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 ### Solução: [Código da quinta questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe05/Exe05.java)
 
 Questão 5 de 5
+
 Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
