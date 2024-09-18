@@ -23,7 +23,7 @@ Observe o trecho de código abaixo:
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
-### Solução: [Resultado da Soma](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/targetSistemas-exercicio01/src/main/java/br/com/exercicios/Main.java)
+### Solução: [Código da primeira questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe01/Exe01.java)
 
 Questão 2 de 5
 
@@ -31,7 +31,7 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 
 IMPORTANTE:
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
-### Solução: [Fibonacci](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/targetSistemas-exercicio02/src/main/java/br/com/exercicios/Main.java)
+### Solução: [Código da segunda questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe02/Exe02.java)
 
 Questão 3 de 5
 Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
@@ -42,7 +42,7 @@ Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, fa
 IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
-### Solução: [Estatísticas de venda](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/targetSistemas-exercicio03/src/main/java/br/com/exercicios/Main.java)
+### Solução: [Código da terceira questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe03/Exe03.java)
 
 Questao 4 de 5
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
@@ -54,7 +54,7 @@ Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
    Outros – R$19.849,53
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
-### Solução: [Porcentagem por estado](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/targetSistemas-exercicio04/src/main/java/br/com/exercicios/Main.java)
+### Solução: [Código da quinta questão](https://github.com/arlessoncancio/estagio-targetSistemas/blob/main/target-exercicios/src/main/java/br/com/exercicios/exe05/Exe05.java)
 
 Questão 5 de 5
 Escreva um programa que inverta os caracteres de um string.
